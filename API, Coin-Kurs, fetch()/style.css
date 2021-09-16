@@ -1,0 +1,30 @@
+
+#app
+{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.btnCon
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btnCon>button
+{
+    border: none;
+    cursor: pointer;
+    padding: 12px 18px;
+    background-color: crimson;
+    color: white;
+    font-weight: bold;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.grafik
+{
+    width: 700px;
+    margin: 40px auto;
+}
